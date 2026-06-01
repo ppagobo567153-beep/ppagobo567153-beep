@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Dianne 👋
 
-<!--
-**ppagobo567153-beep/ppagobo567153-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
 
-Here are some ideas to get you started:
+Currently learning and exploring the fields that inspire me most:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔐 Cybersecurity
+- 🤖 AI & Data Science
+- 💰 FinTech
+
+I'm still at the beginning of my journey, but my long-term vision is to build secure, intelligent, and impactful technology that connects these industries.
+
+🌱 Learning one project at a time.
