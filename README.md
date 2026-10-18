@@ -1,4 +1,4 @@
-# Hi, I'm Dianne 👋
+# Hi, I'm Riza 👋
 
 -> A computer science student 
 
